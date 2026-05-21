@@ -1,0 +1,6 @@
+{
+  "name": "Tabata Timer Pro",
+  "description": "Customizable interval training timer with YouTube background music integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
